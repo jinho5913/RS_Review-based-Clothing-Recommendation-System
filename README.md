@@ -1,1 +1,1 @@
-# RS_Review-based-Clothing-Recommendation-System
+# 무신사 리뷰를 통한 옷 추천시스템 개발
